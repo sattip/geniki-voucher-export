@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Geniki Taxydromiki Voucher Export
+Plugin Name: OBS Geniki Taxydromiki Voucher Export
 Plugin URI: 
 Description: Export voucher numbers based on creation date for Geniki Taxydromiki
 Version: 1.0
